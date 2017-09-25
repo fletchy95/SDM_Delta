@@ -1,6 +1,6 @@
 # SDM_Delta
 Delta is a game in order to help new programmers learn to program in a fun and simple way!
-GITHUB Info--------------
+GITHUB Info--------------<br>
 Under projects it shows what we need to do.  
 Each project is split in to several sections: TODO, In Progress, Testing, Done.
   TODO are things that need to be done but havent been started.
