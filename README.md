@@ -1,7 +1,7 @@
 # SDM_Delta
 Delta is a game in order to help new programmers learn to program in a fun and simple way!<br><br>
 ------------------GITHUB Info------------------
-<br><br>
+<br>
 Issues<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Display errors your having<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Label properly<br>
