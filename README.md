@@ -21,4 +21,5 @@ Wiki<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Question we have that have been solved.
 &nbsp;&nbsp;&nbsp;&nbsp; Add solutions to your questions in the Wiki once you've solved it.
 &nbsp;&nbsp;&nbsp;&nbsp; Solutions can be as simple as a youtube video, or a website link. <br><br>
-If you have questions about GitHub go online and and see if you can figure it out or just contact me (Crowley) and I'll see if i can solve it.  
+------------------Additional Info----------------
+If you have questions about GitHub go online and and see if you can figure it out or just contact me (Crowley) and I'll see if i can solve it.  I'll update this README randomly and everything else.  I'll give permissions to people once I figure it out.  
